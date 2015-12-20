@@ -6,5 +6,8 @@
 
     <dimen name="a1">35sp</dimen>
     <dimen name="a2">25sp</dimen>
-
+    <dimen name="icon">100dp</dimen>
+    <dimen name="image1">250dp</dimen>
+    <dimen name="Srossview1">250dp</dimen>
+    <dimen name="Srossview2">250dp</dimen>
 </resources>
