@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Re Traffic</string>
     <string name="head">จราจร</string>
+    <string name="title_activity_splash_screen">splashScreen</string>
 
 
 </resources>

@@ -10,4 +10,5 @@
     <dimen name="image1">250dp</dimen>
     <dimen name="Srossview1">250dp</dimen>
     <dimen name="Srossview2">250dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
 </resources>
